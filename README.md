@@ -9,3 +9,4 @@ Here are some of my github projects:
     Hekky Shader Documentation, using Astro and custom controls, to generate a static documentation website from markdown.
     Amethyst Installer, the GUI installer for Amethyst.
     Pixelcord, a theme for popular social platform Discord.
+This site was built using [GitHub Pages](https://pages.github.com/).
