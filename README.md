@@ -1,6 +1,6 @@
-## Hi! Welcome to my GitHub page!
+# Hi! Welcome to my GitHub page!
 
-# I'm a graphics programmer, and find game development and graphics programming to be really interesting. 
+## I have a Masters in HCI Software Engineering. I program everything related to VR/XR/AR, GPU's and Full-Stack Development.
 
 Here are some of my github projects:
 
