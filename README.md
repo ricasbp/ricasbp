@@ -5,7 +5,7 @@
 Here are some of my github projects:
 
 
-[BeMyHelper]([https://pages.github.com/](https://github.com/ricasbp/BeMyHelper)).
+[BeMyHelper](https://github.com/ricasbp/BeMyHelper)
   - Android application to help people with mobility difficulties in Lisbon. 
 
 Hekky Shaders, a collection of shaders which compliment Hekky PBR, aiming to allow for higher fidelity visuals in Unity with relative ease, all while aiming for high performance in VR.
