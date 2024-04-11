@@ -1,6 +1,6 @@
 # Hi! Welcome to my GitHub page!
 
-I program everything related to VR/XR/AR, GPU's and Full-Stack Development.
+### I program everything related to VR/XR/AR, GPU's and Full-Stack Development.
 
 Here are some of my github projects:
 
