@@ -11,7 +11,7 @@ Here are some of my github projects:
   - Android application to help people with mobility difficulties in Lisbon.
 
 [ColorSnap](https://github.com/ricasbp/ColorSnap)
-  - ColorSnap is an AR Game done with Unity. 
+  - AR Game done with Unity. 
 
 [ProjectManagement](https://github.com/ricasbp/ProjectsManager)
   - Angular Website for Project Managing. Done with MEAN FrameWork. 
