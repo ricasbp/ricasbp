@@ -14,7 +14,7 @@ Here are some of my github projects:
   - AR Game done with Unity. 
 
 [ProjectManagement](https://github.com/ricasbp/ProjectsManager)
-  - Angular Website for Project Managing. Done with MEAN FrameWork. 
+  - Angular HTML Website for Project Managing. Done with MEAN FrameWork. 
 
 [SOVACCINES](https://github.com/ricasbp/SOVACCINES)
   - C project with Clients, Proxies and a Server. 
