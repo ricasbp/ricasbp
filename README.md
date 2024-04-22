@@ -8,7 +8,7 @@ Here are some of my github projects:
   - C++ Application with ImGUI and Vulkan dependecies.
 
 [VulkanProject](https://github.com/ricasbp/VulkanProject)
-  - Simple Triangle Rendering with Vulkan. 
+  - Vulkan project to render a triangle. 
     
 [BeMyHelper](https://github.com/ricasbp/BeMyHelper)
   - Java Android application to help people with mobility difficulties in Lisbon.
