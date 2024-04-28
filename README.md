@@ -14,7 +14,7 @@ Here are some of my github projects:
   - Java Android application to help people with mobility difficulties in Lisbon.
 
 [ColorSnap](https://github.com/ricasbp/ColorSnap)
-  - AR Game done with Unity where you need to find the correct color pieces to be able to fit the main puzzle piece. 
+  - Unity AR Game where you need to find the correct color pieces to be able to fit the main puzzle piece. 
 
 [ProjectManagement](https://github.com/ricasbp/ProjectsManager)
   - Angular HTML Website for Project Managing. Done with MEAN FrameWork. 
