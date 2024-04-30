@@ -1,6 +1,16 @@
 # Hi! Welcome to my GitHub page! 🥽💻
- 
-### I'm obsessed with everything related to VR/XR/AR, GPU's and Full-Stack Development.
+
+
+
+
+#### I'm obsessed with everything related to VR/XR/AR, GPU's and Full-Stack Development.
+
+
+<div id="header" align="center">
+  <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXkwBICtyWM0PadwmPFoSCJzBqSTdYClb_keasg_1IecIf2eTR" width="350";/>
+</div>
+
+
 
 Here are some of my github projects:
 
