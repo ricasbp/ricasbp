@@ -15,7 +15,7 @@
 Here are some of my github projects:
 
 [SatoreGUI](https://github.com/ricasbp/SatoreGUI)
-  - C++ Application with ImGUI and Vulkan dependecies.
+  - C++ Application with ImGUI and Vulkan dependencies.
 
 [VulkanProject](https://github.com/ricasbp/Vulkan-Project)
   - Vulkan project to render a triangle. 
