@@ -11,7 +11,7 @@
 </div>
 
 
-### 💻 Favorite GitHub Projects :
+### 💻 Some Public GitHub Projects :
 
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
