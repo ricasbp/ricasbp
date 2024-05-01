@@ -29,7 +29,7 @@
 
 <div style="margin-bottom: 10px;">
   <span style="display: inline-block;">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="35" height="35"/> &nbsp; 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="40" height="40"/> &nbsp; 
       <a href="https://github.com/ricasbp/ColorSnap"> ColorSnap </a>
 </span>: Unity AR Game where you need to find the correct color pieces to be able to fit the main puzzle piece.
 </div>
