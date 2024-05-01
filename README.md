@@ -17,7 +17,7 @@
   <span style="display: inline-block;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpp" alt="cpp" width="40" height="40"/> &nbsp; 
   <a href="https://github.com/ricasbp/SatoreGUI"> SatoreGUI </a>
-</span>: C++ Application with ImGUI and Vulkan dependencies.
+</span>: C++ Master Thesis Application with ImGUI and Vulkan dependencies.
 </div>
 
 <div style="margin-bottom: 55px;">
