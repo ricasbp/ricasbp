@@ -44,7 +44,7 @@
 
 <div style="margin-bottom: 10px;">
   <span style="display: inline-block;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="angular" alt="angular" width="48" height="48"/> &nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="angular" alt="angular" width="40" height="40"/> &nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/> &nbsp; 
     <a href="https://github.com/ricasbp/ProjectsManager">ProjectManagement</a>
   </span>: Angular HTML Website for Project Managing. Done with MEAN FrameWork.
@@ -52,7 +52,7 @@
 
 <div style="margin-bottom: 10px;">
   <span style="display: inline-block;">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="48" height="48"/> &nbsp; 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/> &nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="java" alt="java" width="40" height="40"/> &nbsp; 
   <a href="https://github.com/ricasbp/BeMyHelper"> BeMyHelper </a>
 </span>: Java Android application to help people with mobility difficulties in Lisbon.
