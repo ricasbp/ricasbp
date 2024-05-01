@@ -11,7 +11,6 @@
 </div>
 
 
-
 ### 💻 Favorite GitHub Projects :
 
 <div style="margin-bottom: 10px;">
@@ -20,7 +19,6 @@
   <a href="https://github.com/ricasbp/SatoreGUI"> SatoreGUI </a>
 </span>: C++ Application with ImGUI and Vulkan dependencies.
 </div>
-
 
 <div style="margin-bottom: 10px;">
   <span style="display: inline-block;">
@@ -31,18 +29,16 @@
 
 <div style="margin-bottom: 10px;">
   <span style="display: inline-block;">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="35" height="35"/> &nbsp; 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="java" alt="java" width="35" height="35"/> &nbsp; 
-  <a href="https://github.com/ricasbp/BeMyHelper"> BeMyHelper </a>
-</span>: Java Android application to help people with mobility difficulties in Lisbon.
-</div>
-
-
-<div style="margin-bottom: 10px;">
-  <span style="display: inline-block;">
      <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="35" height="35"/> &nbsp; 
       <a href="https://github.com/ricasbp/ColorSnap"> ColorSnap </a>
 </span>: Unity AR Game where you need to find the correct color pieces to be able to fit the main puzzle piece.
+</div>
+
+<div style="margin-bottom: 55px;">
+  <span style="display: inline-block;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/> &nbsp;
+    <a href="https://github.com/ricasbp/SOVACCINES">SOVACCINES</a>
+  </span>: C project with Clients, Proxies and a Server. 
 </div>
 
 
@@ -54,12 +50,14 @@
   </span>: Angular HTML Website for Project Managing. Done with MEAN FrameWork.
 </div>
 
-<div style="margin-bottom: 55px;">
+<div style="margin-bottom: 10px;">
   <span style="display: inline-block;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/> &nbsp;
-    <a href="https://github.com/ricasbp/SOVACCINES">SOVACCINES</a>
-  </span>: C project with Clients, Proxies and a Server. 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="48" height="48"/> &nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="java" alt="java" width="40" height="40"/> &nbsp; 
+  <a href="https://github.com/ricasbp/BeMyHelper"> BeMyHelper </a>
+</span>: Java Android application to help people with mobility difficulties in Lisbon.
 </div>
+
 
 
 
