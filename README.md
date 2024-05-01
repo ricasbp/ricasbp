@@ -12,7 +12,7 @@
 
 
 
-Here are some of my github projects:
+### 💻 Favorite GitHub Projects :
 
 <div style="margin-bottom: 10px;">
   <span style="display: inline-block;">
