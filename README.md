@@ -47,7 +47,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="angular" alt="angular" width="40" height="40"/> &nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/> &nbsp; 
     <a href="https://github.com/ricasbp/ProjectsManager">ProjectManagement</a>
-  </span>: Angular HTML Website for Project Managing. Done with MEAN FrameWork.
+  </span>: Angular HTML Website for Project Managing with the MEAN (MongoDB, Express.js, Angular, Node.js) FrameWork.
 </div>
 
 <div style="margin-bottom: 55px;">
