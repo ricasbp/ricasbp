@@ -17,7 +17,7 @@
   <span style="display: inline-block;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpp" alt="cpp" width="40" height="40"/> &nbsp; 
   <a href="https://github.com/ricasbp/Vulkan-Project"> VulkanProject </a>
-</span>: C++ Vulkan project to render a triangle
+</span>: C++ Vulkan project to render a triangle.
 </div>
 
 <div style="margin-bottom: 55px;">
