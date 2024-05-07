@@ -48,14 +48,14 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/> &nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="noSQL" alt="noSQL" width="40" height="40"/> &nbsp; 
     <a href="https://github.com/ricasbp/ProjectManagementApp"> ProjectManagementApp </a>
-  </span>: Angular-based website for project management using the MEAN (MongoDB, Express.js, Angular, Node.js) framework stack.
+  </span>: Angular-based website for project management using the MEAN framework stack.
 </div>
 
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/> &nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sql" alt="sql" width="40" height="40"/> &nbsp;    
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="noSQL" alt="noSQL" width="40" height="40"/> &nbsp; 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sql" alt="sql" width="40" height="40"/> &nbsp; 
     <a href="https://github.com/ricasbp/DisneyMoviesDB"> DisneyDB </a>
   </span>: MongoDB and SQLite Query performance improvement made in python.
 </div>
