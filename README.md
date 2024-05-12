@@ -57,7 +57,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sql" alt="sql" width="40" height="40"/> &nbsp;    
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="noSQL" alt="noSQL" width="40" height="40"/> &nbsp; 
     <a href="https://github.com/ricasbp/DisneyMoviesDB"> DisneyDB </a>
-  </span>: MongoDB and SQLite Query performance improvement made in python.
+  </span>: MongoDB and SQLite query performance improvement made in python.
 </div>
 
 
