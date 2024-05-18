@@ -3,7 +3,7 @@
 
 
 
-### I'm obsessed with everything related to VR/XR/AR, GPU's and Full-Stack Development.
+### I'm obsessed with everything related to VR/XR/AR, GPU's, Full-Stack Development and Cloud Development.
 
 
 <div id="header" align="center">
