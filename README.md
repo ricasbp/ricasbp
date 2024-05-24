@@ -19,6 +19,15 @@
 
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="cpp" alt="cpp" width="40" height="40"/> &nbsp; 
+  <a href="https://github.com/ricasbp/CudaProject"> CUDA </a>
+</span>: CUDA implementation of the Floyd-Warshall algorithm with multiple parallel threads.
+</div>
+
+
+
+<div style="margin-bottom: 55px;">
+  <span style="display: inline-block;">
      <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="40" height="40"/> &nbsp; 
       <a href="https://github.com/ricasbp/ColorSnap"> ColorSnap </a>
 </span>: Unity AR Game where you need to find the correct color pieces to be able to fit the main puzzle piece.
