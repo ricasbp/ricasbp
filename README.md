@@ -12,8 +12,8 @@
 
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="cpp" alt="cpp" width="40" height="40"/> &nbsp; 
-  <a href="https://github.com/ricasbp/Vulkan-Project"> VaporWave Website </a>
+    <img src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg title="cpp" alt="cpp" width="40" height="40"/> &nbsp; 
+  <a href=https://github.com/ricasbp/Three.js_VaporWave> VaporWave Website </a>
 </span>: Three.js Website inspired by VaporWave art.
 </div>
 
