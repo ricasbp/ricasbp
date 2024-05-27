@@ -49,6 +49,7 @@
   </span>: C project with Clients, Proxies and a Server. 
 </div>
 
+
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/> &nbsp; 
@@ -66,6 +67,8 @@
   </span>: Angular-based website for project management using the MEAN framework stack.
 </div>
 
+
+<!-- Meto sempre em todos os CV's
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/> &nbsp; 
@@ -74,7 +77,7 @@
     <a href="https://github.com/ricasbp/DisneyMoviesDB"> DisneyDB </a>
   </span>: MongoDB and SQLite query performance improvement made in python.
 </div>
-
+-->
 
 
 
