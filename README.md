@@ -10,12 +10,7 @@
 
 ### 💻 Some Public GitHub Projects :
 
-<div style="margin-bottom: 55px;">
-  <span style="display: inline-block;">
-    <img src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg title="cpp" alt="cpp" width="40" height="40"/> &nbsp; 
-  <a href=https://github.com/ricasbp/Three.js_VaporWave> VaporWeb </a>
-</span>: Three.js website inspired by VaporWave art (2021).
-</div>
+
 
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
@@ -24,14 +19,12 @@
 </span>: C++ Vulkan project to render a triangle.
 </div>
 
-<!--
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="cpp" alt="cpp" width="40" height="40"/> &nbsp; 
   <a href="https://github.com/ricasbp/CudaProject"> Floyd-Warshall Algorithm </a>
 </span>: CUDA implementation of the Floyd-Warshall algorithm with multiple parallel threads.
 </div>
--->
 
 <!--
 <div style="margin-bottom: 55px;">
@@ -67,6 +60,12 @@
   </span>: Angular-based website for project management using the MEAN framework stack.
 </div>
 
+<div style="margin-bottom: 55px;">
+  <span style="display: inline-block;">
+    <img src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg title="cpp" alt="cpp" width="40" height="40"/> &nbsp; 
+  <a href=https://github.com/ricasbp/Three.js_VaporWave> VaporWeb </a>
+</span>: Three.js website inspired by VaporWave art (2021).
+</div>
 
 <!-- Meto sempre em todos os CV's
 <div style="margin-bottom: 55px;">
