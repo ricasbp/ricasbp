@@ -40,6 +40,7 @@
 </span>: Java Android application to help people with mobility difficulties in Lisbon.
 </div>
 
+<!--
 
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
@@ -48,16 +49,20 @@
   </span>: C project with Clients, Proxies, and a Server. 
 </div>
 
+-->
 
 
 
-<!--
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpp" alt="cpp" width="40" height="40"/> &nbsp; 
   <a href="https://github.com/ricasbp/Vulkan-Project"> VulkanProject </a>
 </span>: C++ Vulkan project to render a triangle.
 </div>
+
+
+
+<!--
 
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
