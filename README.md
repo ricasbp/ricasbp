@@ -21,7 +21,13 @@
 </div>
 
 
-
+<div style="margin-bottom: 55px;">
+  <span style="display: inline-block;">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/> &nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="java" alt="java" width="40" height="40"/> &nbsp; 
+  <a href="https://github.com/ricasbp/BeMyHelper"> BeMyHelper </a>
+</span>: Java Android application to help people with mobility difficulties in Lisbon.
+</div>
 
 
 <!--
@@ -58,13 +64,7 @@
 </div>
 
 
-<div style="margin-bottom: 55px;">
-  <span style="display: inline-block;">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/> &nbsp; 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="java" alt="java" width="40" height="40"/> &nbsp; 
-  <a href="https://github.com/ricasbp/BeMyHelper"> BeMyHelper </a>
-</span>: Java Android application to help people with mobility difficulties in Lisbon.
-</div>
+
 
 <!--
 <div style="margin-bottom: 55px;">
@@ -87,7 +87,7 @@
   </span>: Three.js website inspired by VaporWave art (2021).
 </div>
 
-<!-- Meto sempre em todos os CV's
+<!-- Meto sempre em todos os CV's-->
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/> &nbsp; 
@@ -96,7 +96,7 @@
     <a href="https://github.com/ricasbp/DisneyMoviesDB"> DisneyDB </a>
   </span>: MongoDB and SQLite query performance improvement made in python.
 </div>
--->
+
 
 
 
