@@ -66,6 +66,7 @@
 </span>: Java Android application to help people with mobility difficulties in Lisbon.
 </div>
 
+<!--
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="angular" alt="angular" width="40" height="40"/> &nbsp; 
@@ -74,6 +75,7 @@
     <a href="https://github.com/ricasbp/ProjectManagementApp"> ProjectManagementApp </a>
   </span>: Angular-based website for project management using the MEAN framework stack.
 </div>
+-->
 
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
