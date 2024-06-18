@@ -24,7 +24,7 @@
 
 
 
-
+<!--
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpp" alt="cpp" width="40" height="40"/> &nbsp; 
@@ -38,6 +38,8 @@
   <a href="https://github.com/ricasbp/CudaProject"> Floyd-Warshall Algorithm </a>
 </span>: CUDA implementation of the Floyd-Warshall algorithm with multiple parallel threads.
 </div>
+
+-->
 
 <!--
 <div style="margin-bottom: 55px;">
