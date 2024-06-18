@@ -20,6 +20,14 @@
   </span>: VR device fleet management Angular application for PC, IOS, and Android.
 </div>
 
+<div style="margin-bottom: 55px;">
+  <span style="display: inline-block;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/> &nbsp;
+    <a href="https://github.com/ricasbp/SOVACCINES">SOVACCINES</a>
+  </span>: C project with Clients, Proxies and a Server. 
+</div>
+
+
 
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
@@ -56,12 +64,6 @@
 </div>
 -->
 
-<div style="margin-bottom: 55px;">
-  <span style="display: inline-block;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/> &nbsp;
-    <a href="https://github.com/ricasbp/SOVACCINES">SOVACCINES</a>
-  </span>: C project with Clients, Proxies and a Server. 
-</div>
 
 
 
