@@ -20,11 +20,14 @@
   </span>: VR device fleet management Angular application for PC, IOS, and Android.
 </div>
 
+
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/> &nbsp;
-    <a href="https://github.com/ricasbp/SOVACCINES">SOVACCINES</a>
-  </span>: C project with Clients, Proxies and a Server. 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/> &nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sql" alt="sql" width="40" height="40"/> &nbsp;    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="noSQL" alt="noSQL" width="40" height="40"/> &nbsp; 
+    <a href="https://github.com/ricasbp/DisneyMoviesDB"> DisneyDB </a>
+  </span>: MongoDB and SQLite query performance improvement made in Python.
 </div>
 
 
@@ -36,6 +39,16 @@
   <a href="https://github.com/ricasbp/BeMyHelper"> BeMyHelper </a>
 </span>: Java Android application to help people with mobility difficulties in Lisbon.
 </div>
+
+
+<div style="margin-bottom: 55px;">
+  <span style="display: inline-block;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/> &nbsp;
+    <a href="https://github.com/ricasbp/SOVACCINES">SOVACCINES</a>
+  </span>: C project with Clients, Proxies, and a Server. 
+</div>
+
+
 
 
 <!--
@@ -90,14 +103,7 @@
 </div>
 
 <!-- Meto sempre em todos os CV's-->
-<div style="margin-bottom: 55px;">
-  <span style="display: inline-block;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/> &nbsp; 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sql" alt="sql" width="40" height="40"/> &nbsp;    
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="noSQL" alt="noSQL" width="40" height="40"/> &nbsp; 
-    <a href="https://github.com/ricasbp/DisneyMoviesDB"> DisneyDB </a>
-  </span>: MongoDB and SQLite query performance improvement made in python.
-</div>
+
 
 
 
