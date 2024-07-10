@@ -110,8 +110,11 @@
 <!-- Meto sempre em todos os CV's-->
 
 
+### 🚀 Algorithms Training :
 
-
+<div style="margin-bottom: 55px;">
+  <a href=https://leetcode.com/u/ricasbp/> LeetCode Profile </a>
+</div>
 
 
 ### :hammer_and_wrench: Favorite IDE's :
@@ -122,11 +125,7 @@
 </div>
 
 
-### 🚀 Algorithms Training :
 
-<div style="margin-bottom: 55px;">
-  <a href=https://leetcode.com/u/ricasbp/> LeetCode Profile </a>
-</div>
 
 
 
