@@ -121,11 +121,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
-<!-- Meto sempre em todos os CV's
 
-### 🚀 LeetCode Stats (Algorithm Programming) :
+### 🚀 Algorithms Training :
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ricasbp?theme=dark&font=Noto%20Sans%20Wancho)
 
--->
+
+
 
