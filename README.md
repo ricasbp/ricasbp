@@ -124,7 +124,11 @@
 
 ### 🚀 Algorithms Training :
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ricasbp?theme=dark&font=Noto%20Sans%20Wancho)
+<div style="margin-bottom: 55px;">
+  <a href=https://leetcode.com/u/ricasbp/> LeetCode Profile </a>
+</div>
+
+
 
 
 
