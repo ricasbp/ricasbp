@@ -1,6 +1,6 @@
-# Hi! Welcome to my GitHub page! 🥽💻
+# Hi! Welcome to my GitHub page! 
 
-### I'm obsessed with everything related to VR/XR/AR, Full-Stack Development and GPUs!
+### 🥽 I'm obsessed with everything related to VR/XR/AR, Full-Stack Development and GPUs!
 
 
 <div id="header" align="center">
