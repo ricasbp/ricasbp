@@ -96,12 +96,13 @@
   </span>: Angular-based website for project management using the MEAN framework stack.
 </div>
 
+<!--
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
     <img src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg title="javaScript" alt="javaScript" width="40" height="40"/> &nbsp; 
-    <!--
+    
     <img src=https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg title="threejs" alt="threejs" width="40" height="40"/> &nbsp; 
-    -->
+    
     <a href=https://github.com/ricasbp/Three.js_VaporWave> VaporWeb </a>
   </span>: Three.js website inspired by VaporWave art (2021).
 </div>
