@@ -2,11 +2,10 @@
 
 ### 🥽 Been obsessed since 5 years old with everything related to tech.
 
-<!--
+
 <div id="header" align="center">
   <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXkwBICtyWM0PadwmPFoSCJzBqSTdYClb_keasg_1IecIf2eTR" width="350";/>
 </div>
--->
 
 
 ### 💻 Some Public GitHub Projects :
