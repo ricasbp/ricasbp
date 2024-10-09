@@ -121,7 +121,7 @@
 
 
 
-### 🚀 Algorithms Training :
+### 🚀 Algorithms & Data Structures Training :
 
 <div style="margin-bottom: 55px;">
   <a href=https://leetcode.com/u/ricasbp/> LeetCode Profile </a>
