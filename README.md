@@ -1,6 +1,6 @@
 # Hi! Welcome to my GitHub page! 
 
-### 🥽 Been obsessed since 5 years old with everything related to tech.
+### 🎮 Been obsessed with everything related to tech since 5 years old. 
 
 
 <div id="header" align="center">
