@@ -115,7 +115,7 @@
     <img src=https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg title="threejs" alt="threejs" width="40" height="40"/> &nbsp; 
     -->
     <a href=https://github.com/ricasbp/PrinterDataProcessing> PrinterDataProcessing </a>
-  </span>: Private client Python program for data manipulation and processing of printers.
+  </span>: Python program for data manipulation of printers. 
 </div>
 
 
