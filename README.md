@@ -30,6 +30,7 @@
 </div>
 
 
+<!--
 
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
@@ -39,7 +40,7 @@
 </span>: Java Android application to help people with mobility difficulties in Lisbon.
 </div>
 
-<!--
+
 
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
