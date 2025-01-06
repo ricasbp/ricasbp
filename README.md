@@ -100,8 +100,10 @@
   </span>: Three.js website inspired by VaporWave art (2021).
 </div>
 
+
 -->
 
+<!--
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/> &nbsp; 
@@ -112,6 +114,7 @@
   </span>: Python program for data manipulation of printers. 
 </div>
 
+-->
 
 
 ### 🚀 Algorithms & Data Structures Hobby:
