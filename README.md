@@ -2,12 +2,6 @@
 
 ### 🎮 Been obsessed with everything related to tech since 5 years old. 
 
-
-<div id="header" align="center">
-  <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXkwBICtyWM0PadwmPFoSCJzBqSTdYClb_keasg_1IecIf2eTR" width="350";/>
-</div>
-
-<!--
 ### 💻 Some Public GitHub Projects :
 
 
@@ -48,7 +42,7 @@
   </span>: C project with Clients, Proxies, and a Server. 
 </div>
 
-
+-->
 
 
 
@@ -70,13 +64,18 @@
 </span>: CUDA implementation of the Floyd-Warshall algorithm with multiple parallel threads.
 </div>
 
+-->
 
+<!--
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
      <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="40" height="40"/> &nbsp; 
       <a href="https://github.com/ricasbp/ColorSnap"> ColorSnap </a>
 </span>: Unity AR Game where you need to find the correct color pieces to be able to fit the main puzzle piece.
 </div>
+-->
+
+
 
 
 
@@ -101,15 +100,19 @@
   </span>: Three.js website inspired by VaporWave art (2021).
 </div>
 
+-->
+
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/> &nbsp; 
-
+    <!--
+    <img src=https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg title="threejs" alt="threejs" width="40" height="40"/> &nbsp; 
+    -->
     <a href=https://github.com/ricasbp/PrinterDataProcessing> PrinterDataProcessing </a>
   </span>: Python program for data manipulation of printers. 
 </div>
 
--->
+
 
 ### 🚀 Algorithms & Data Structures Hobby:
 
