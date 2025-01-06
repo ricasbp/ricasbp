@@ -116,6 +116,7 @@
   <a href=https://leetcode.com/u/ricasbp/> LeetCode Profile </a>
 </div>
 
+<!--
 
 ### :hammer_and_wrench: Favorite IDE's :
 
@@ -127,7 +128,7 @@
 
 
 
-
+-->
 
 
 
