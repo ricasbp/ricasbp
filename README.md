@@ -7,15 +7,6 @@
 
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="angular" alt="angular" width="40" height="40"/> &nbsp; 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/> &nbsp; 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="noSQL" alt="noSQL" width="40" height="40"/> &nbsp; 
-    <a href="https://github.com/ricasbp/SatoreStudioApp"> SatoreStudioApp  </a>
-  </span>: Full-Stack VR device control Angular application for PC, IOS, and Android.
-</div>
-
-<div style="margin-bottom: 55px;">
-  <span style="display: inline-block;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sql" alt="sql" width="40" height="40"/> &nbsp;    
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="noSQL" alt="noSQL" width="40" height="40"/> &nbsp; 
     <a href="https://github.com/ricasbp/DisneyMoviesDB"> DisneyDB </a>
@@ -23,7 +14,7 @@
 </div>
 
 
-<!--
+
 
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
@@ -41,8 +32,6 @@
     <a href="https://github.com/ricasbp/SOVACCINES">SOVACCINES</a>
   </span>: C project with Clients, Proxies, and a Server. 
 </div>
-
--->
 
 
 
