@@ -16,7 +16,7 @@
 
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" padding="5" width="40" height="40"/> &nbsp; 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java"  style="margin: 10px; padding: 5px;"  width="40" height="40"/> &nbsp; 
   <a href="https://github.com/ricasbp/BeMyHelper"> BeMyHelper </a>
 </span>: Java Android application to help people with mobility difficulties in Lisbon.
 </div>
@@ -25,7 +25,7 @@
 
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" margin="115" width="40" height="40"/> &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/> &nbsp;
     <a href="https://github.com/ricasbp/SOVACCINES">SOVACCINES</a>
   </span>: C project with Clients, Proxies, and a Server. 
 </div>
