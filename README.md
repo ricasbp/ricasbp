@@ -7,7 +7,7 @@
 
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/> &nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python"  padding="5" width="40" height="40"/> &nbsp; 
     <a href="https://github.com/ricasbp/DisneyMoviesDB"> DisneyDB </a>
   </span>: MongoDB and SQLite query performance improvement made in Python.
 </div>
@@ -16,7 +16,7 @@
 
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/> &nbsp; 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" padding="5" width="40" height="40"/> &nbsp; 
   <a href="https://github.com/ricasbp/BeMyHelper"> BeMyHelper </a>
 </span>: Java Android application to help people with mobility difficulties in Lisbon.
 </div>
@@ -34,7 +34,7 @@
 
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpp" alt="cpp" width="40" height="40"/> &nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpp" alt="cpp"  padding="5" width="40" height="40"/> &nbsp; 
   <a href="https://github.com/ricasbp/Vulkan-Project"> VulkanProject </a>
 </span>: C++ Vulkan 3D personal project to understand graphic pipelines better.
 </div>
