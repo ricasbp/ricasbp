@@ -16,7 +16,7 @@
 
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java"  style="margin: 10px; padding: 5px;"  width="40" height="40"/> &nbsp; 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java"  style="margin: 100px; padding: 50px;"  width="40" height="40"/> &nbsp; 
   <a href="https://github.com/ricasbp/BeMyHelper"> BeMyHelper </a>
 </span>: Java Android application to help people with mobility difficulties in Lisbon.
 </div>
