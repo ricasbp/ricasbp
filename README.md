@@ -7,7 +7,8 @@
 
 <div style="margin-bottom: 55px;">
   <span style="display: inline-block;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python"  padding="5" width="40" height="40"/> &nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python"  padding="5" width="40" height="40"/> &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="python" alt="python"  padding="5" width="40" height="40"/> &nbsp; 
     <a href="https://github.com/ricasbp/DisneyMoviesDB"> DisneyDB </a>
   </span>: MongoDB and SQLite query performance improvement made in Python.
 </div>
